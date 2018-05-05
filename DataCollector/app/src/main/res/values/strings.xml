@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">DataCollector</string>
+    <string-array name="user_array">
+        <item>Patrick</item>
+        <item>User0</item>
+        <item>User1</item>
+        <item>User2</item>
+        <item>User3</item>
+        <item>User4</item>
+        <item>User5</item>
+        <item>User6</item>
+        <item>User7</item>
+        <item>User8</item>
+        <item>User9</item>
+    </string-array>
+    <string-array name="user_position">
+        <item>Sitting</item>
+        <item>Standing</item>
+    </string-array>
+</resources>

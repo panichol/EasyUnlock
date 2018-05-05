@@ -1,0 +1,16 @@
+11/6/17
+User0 = Jack sitting down
+User1 = Jack standing up
+User2 = Yufie sitting down
+User3 = Yufie standing up (last one little messed up)
+User4 = Billy sitting down (one of them null)
+User5 = Billy standing up
+User6 - Jian  sitting down
+User7 = Jian standing up
+User8 = Hua sitting down
+User9 = Hua Standing up
+
+Data Collection Notes:
+Having people pickup and then touch the screen can effect the way they hold the phone 
+Try having app running in background and just get full signal
+Try to control any and all variance

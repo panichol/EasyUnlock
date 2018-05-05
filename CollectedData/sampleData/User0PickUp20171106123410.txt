@@ -1,0 +1,48 @@
+SensorActivityGY: rotation around x axis=-0.02130529 around y axis=-0.04261058 around z axis=-0.0010652645
+ACC: x=-0.4902128 y=0.44651863 z=8.923788
+ACC: x=0.59256494 y=0.009576807 z=9.385869
+GY: rotation around x axis=-0.0127831735 around y axis=0.022370555 around z axis=0.12996227
+ACC: x=0.17118542 y=0.18974048 z=9.433155
+GY: rotation around x axis=-0.017044231 around y axis=0.023435818 around z axis=0.27057716
+GY: rotation around x axis=-0.017044231 around y axis=0.0 around z axis=-0.013848438
+ACC: x=0.060453594 y=0.18255788 z=9.381081
+ACC: x=0.02873042 y=0.20410569 z=9.3421755
+GY: rotation around x axis=-0.015978966 around y axis=-0.004261058 around z axis=-0.018109497
+ACC: x=0.017956512 y=0.15083471 z=9.321226
+GY: rotation around x axis=-0.013848438 around y axis=-0.0031957934 around z axis=-0.01917476
+ACC: x=0.11791443 y=0.12689269 z=9.354146
+GY: rotation around x axis=-0.014913702 around y axis=-0.004261058 around z axis=-0.01917476
+ACC: x=0.011372458 y=0.2885013 z=9.433155
+GY: rotation around x axis=-0.026631612 around y axis=-0.0053263223 around z axis=-0.020240024
+ACC: x=-0.035913024 y=0.26396075 z=9.42238
+GY: rotation around x axis=-0.022370555 around y axis=-0.0053263223 around z axis=-0.018109497
+ACC: x=0.5410896 y=1.6466122 z=10.906187
+GY: rotation around x axis=-0.24501082 around y axis=0.25885928 around z axis=3.5313516
+ACC: x=4.5765166 y=-7.265804 z=3.6846764
+GY: rotation around x axis=0.62744075 around y axis=1.9750003 around z axis=-3.9894154
+ACC: x=-0.12569559 y=0.23044191 z=11.948263
+GY: rotation around x axis=3.7199035 around y axis=6.203035 around z axis=0.74781567
+ACC: x=-3.4261026 y=1.4706384 z=3.8905778
+GY: rotation around x axis=-0.45486793 around y axis=-0.49747851 around z axis=0.31851408
+ACC: x=-2.0937295 y=4.2078094 z=7.318476
+GY: rotation around x axis=0.10652645 around y axis=-0.13635385 around z axis=-0.05006743
+GY: rotation around x axis=-0.094808534 around y axis=-0.20985709 around z axis=-0.12996227
+ACC: x=-2.1613655 y=4.0545807 z=8.545505
+GY: rotation around x axis=-0.14168017 around y axis=-0.2247708 around z axis=0.035153728
+ACC: x=-2.267309 y=3.6164417 z=7.925406
+GY: rotation around x axis=-0.29614353 around y axis=-1.3667343 around z axis=1.8556907
+ACC: x=-2.146402 y=5.057751 z=5.5000796
+GY: rotation around x axis=-2.2615564 around y axis=-0.43356264 around z axis=-0.027696876
+ACC: x=2.5929205 y=-1.1971009 z=9.191938
+GY: rotation around x axis=0.9395633 around y axis=-2.4074976 around z axis=0.7946873
+ACC: x=3.6768951 y=-2.6850972 z=10.529699
+GY: rotation around x axis=1.7193369 around y axis=-2.7505128 around z axis=0.6423545
+ACC: x=-4.361038 y=-3.4153287 z=19.612701
+ACC: x=0.06464344 y=0.19572599 z=9.153033
+GY: rotation around x axis=-0.014913702 around y axis=-0.00958738 around z axis=-0.02130529
+ACC: x=0.02813187 y=0.1921347 z=9.343372
+GY: rotation around x axis=-0.014913702 around y axis=-0.0053263223 around z axis=-0.018109497
+ACC: x=0.0077811554 y=0.20949265 z=9.350554
+GY: rotation around x axis=-0.014913702 around y axis=-0.004261058 around z axis=-0.017044231
+ACC: x=0.008379706 y=0.2112883 z=9.448118
+GY: rotation around x axis=-0.02130529 around y axis=-0.02130529 around z axis=-0.01917476

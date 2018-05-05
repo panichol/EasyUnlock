@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EasyUnlock</string>
+    <string name="button_stop">Stop Collection</string>
+    <string name="button_start">Start Collection</string>
+</resources>
